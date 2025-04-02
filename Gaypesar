@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>به گِی خانه خوش آمدی🏳️‍🌈</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            color: #ff6347;
+        }
+
+        p {
+            font-size: 1.2em;
+            color: #555;
+        }
+
+        audio {
+            margin-top: 20px;
+        }
+
+        img {
+            width: 80%;
+            margin-top: 20px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>به گِی خانه خوش آمدی🏳️‍🌈</h1>
+
+    <!-- نمایش تصویر -->
+    <img src="https://i.imgur.com/OjR0gZU.jpg" alt="تصویر گِی خانه">
+
+    <!-- لینک به آهنگ -->
+    <audio controls>
+        <source src="https://drive.google.com/uc?id=12BLbBC0MOnB3VWo9QvqtfKhORS7XlVgM" type="audio/mpeg">
+        مرورگر شما از پخش آهنگ پشتیبانی نمی‌کند.
+    </audio>
+
+    <p>هر شب قبل خواب مصرف شود</p>
+</body>
+</html>
